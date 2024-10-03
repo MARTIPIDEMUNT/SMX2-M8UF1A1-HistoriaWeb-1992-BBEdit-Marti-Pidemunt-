@@ -14,8 +14,8 @@ BBEdit fue creado en 1992 por Bare Bones Software. Desde su lanzamiento ha evolu
 
 BBEdit ofrece herramientas avanzadas para edición, búsqueda y manipulación de texto, código fuente y datos textuales.
 
-| Característica | Descripción |
 |-----------------|---------------|
+| Característica | Descripción |
 | Compatibilidad | macOS |
 | Lenguajes | HTML, CSS, JS... |
 | Interfaz  | Personalizable |
