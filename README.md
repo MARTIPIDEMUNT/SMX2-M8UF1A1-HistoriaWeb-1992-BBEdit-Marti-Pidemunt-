@@ -2,13 +2,13 @@
 
 # ¿Qué es BBEdit?
 
-BBEdit es un potente editor de texto y HTML profesional para macOS. Es conocido por su robustez y por ser ideas para los desarrolladores de software.
+BBEdit es un potente editor de texto y HTML profesional para macOS. Es conocido por su robustez y por ser ideal para los desarrolladores de software.
 
 ![edit](https://github.com/MARTIPIDEMUNT/SMX2-M8UF1A1-HistoriaWeb-1992-BBEdit-Marti-Pidemunt-/blob/main/edit.jpeg "edit")
 
 # ¿Cuándo se creo BBEdit?
 
-BBEdit fue creado en 1992 por Bare Bones Software. Desde su lanzamiento ha evolucionado continuamente, añadiendo nuevas características y mejoras para adaptarse a las necesidades de desarrolladores y programadores.
+BBEdit fue creado en 1992 por Bare Bones Software. Desde su lanzamiento ha evolucionado continuamente, añadiendo nuevas características y mejoras para adaptarse a las necesidades de los desarrolladores y programadores.
 
 # ¿Qué características tiene BBEdit?
 
